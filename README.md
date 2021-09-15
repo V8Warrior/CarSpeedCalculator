@@ -7,4 +7,5 @@ You need to input:
 - Tyre parametres
 - Main gear ratio
 - Gearbox ratio (minimum 1)
+
 You can calculate conditions for target car's speed and save result configurations. 
