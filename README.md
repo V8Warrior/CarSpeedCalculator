@@ -9,3 +9,5 @@ You need to input:
 - Gearbox ratio (minimum 1)
 
 You can calculate conditions for target car's speed and save result configurations. 
+
+![Example](https://github.com/V8Warrior/CarSpeedCalculator/blob/main/app_preview.jpg)
